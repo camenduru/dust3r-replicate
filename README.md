@@ -15,7 +15,7 @@ https://arxiv.org/abs/2312.14132
 https://dust3r.europe.naverlabs.com/
 
 ### 🖼 Output
-
+![Screenshot 2024-03-03 032640](https://github.com/camenduru/dust3r-replicate/assets/54370274/6ce1318c-2c5d-48f7-ab43-49ef1dc9e406)
 
 ### 🏢 Sponsor
 https://replicate.com
